@@ -1,4 +1,4 @@
-The [eduvpn.org](https://eduvpn.org) website!
+The [letsconnect-vpn.org](https://letsconnect-vpn.org) website!
 
 Please submit a PR if you want to modify anything :)
 

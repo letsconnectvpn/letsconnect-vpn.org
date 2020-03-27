@@ -4,9 +4,9 @@
             "eduVPN\\Web\\": "src/"
         }
     },
-    "description": "eduvpn.org",
+    "description": "letsconnect-vpn.org",
     "license": "proprietary",
-    "name": "eduvpn/eduvpn.org",
+    "name": "letsconnectvpn/letsconnect-vpn.org",
     "repositories": [
         {
             "type": "vcs",

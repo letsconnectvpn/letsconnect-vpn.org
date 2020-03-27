@@ -19,9 +19,9 @@ privacy and security are inseparable within Let's Connect!.
 
 That being said, Let's Connect! software doesn’t log ANY personal data. A user 
 may deploy their own server and turn on/off default server logging. We will 
-never receive any logging. The eduVPN clients (Android, iOS, Windows, macOS, 
-Linux) won’t send us ANY personal information. Only when apps crash we might 
-get crash logging from for example Google Play or Apple Appstore.
+never receive any logging. The Let's Connect! clients (Android, iOS, Windows, 
+macOS, Linux) won’t send us ANY personal information. Only when apps crash we 
+might get crash logging from for example Google Play or Apple Appstore.
 
 ### Be aware
 
