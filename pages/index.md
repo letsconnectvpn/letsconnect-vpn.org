@@ -4,43 +4,38 @@ priority: 0
 latest_blog: yes
 ---
 
-Public WiFi hotspots in a hotel, restaurant or train are generally unsafe. 
-There is a risk of being eavesdropped or tracked by someone on the same network 
-or by malicious software. A virtual private network (VPN) sends all data over 
-an encrypted connection and offers a safe and secure path to the internet. 
-There are hardly any Internet Service Providers (ISP) that provide VPN services 
-to their customers and setting it up yourself is rather cumbersome. The few 
-ones that do offer VPN haven’t been able to offer a modern and user-friendly 
-experience to their users. There are a lot of other VPN solutions around, but 
-most of them do not provide sufficient security en privacy to their users.
+With the ongoing global COVID-19 crisis, many people need to start working from 
+home. Typically, the use of a VPN is required to be able to keep working. Many 
+current VPN solutions used by organizations can not cope with this situation, 
+either due to hardware, software or license restrictions. Let's Connect! is a 
+credible solution which does not suffer from these limitations and scales with 
+your hardware, i.e. CPU and network capacity.
 
 Let’s Connect! provides an open source VPN solution allowing ISPs, hosters and 
-businesses to easily setup a secure VPN service. Even security minded people 
-will be able to deploy it in a home environment. After deployment, users have 
-a safe path from all generic devices.
-
-### Development
+businesses to easily setup a secure VPN service.
 
 We are people from the Research and Educational community and under the 
-governance of the Commons Conservancy foundation founded an open source VPN 
-project. Both server-side software as all client software has been released 
-under an open source license.
+governance of the 
+[Commons Conservancy foundation](https://commonsconservancy.org/) founded an 
+open source VPN project. Both server-side software as all client software has 
+been released under an open source license.
 
-The project is known under two names: Let’s Connect! and eduVPN. The brand 
-eduVPN is used to promote this VPN solution to international educational and 
-research organizations. Our progress can be followed on GitHub and in the blog. 
-Our apps can be found on the Apps page. Please contact us if you want to 
-contribute to or work with Let’s Connect!
+The project is known under two names: Let’s Connect! and 
+[eduVPN](https://www.eduvpn.org/). The brand eduVPN is used to promote this 
+VPN solution to international educational and research organizations. Our 
+progress can be followed on [GitHub](https://github.com/eduvpn) and through the
+[Blog](blog/). Our apps can be found on the [Apps](apps.html) page. Please 
+[contact](contact.html) us if you want to contribute to, or work with 
+Let’s Connect!
 
-### Let's Connect! VPN
+## Sponsors 
 
-In order to improve the security of VPN services Security researchers stress 
-the importance of open standards, simple and open source software, regular 
-audits and proven cryptography. For Let’s Connect! VPN we have focused to 
-apply these best practices as much as possible. OpenVPN was chosen as ‘core’ 
-VPN technology because it is open-source and has been audited by an 
-international community. OpenVPN also works better than for example IPsec in 
-restricted environments, such as firewalled networks, because it is able to 
-hide the VPN traffic. Currently OpenVPN isn’t an open standard but there is 
-work in progress. OpenVPN supports a variety of cryptography ciphers and after 
-consultation of cryptography experts AES-256-GCM was chosen
+We would like to thank our former and current sponsors for supporting our work 
+on Let's Connect!
+
+<div class="sponsors">
+    <a href="https://ec.europa.eu/"><img width="300" height="120" src="img/ec.jpg" alt="European Commission"></a>
+    <a href="https://nlnet.nl/"><img width="300" height="120" src="img/nlnet.jpg" alt="NLnet Foundation"></a>
+    <a href="https://www.ripe.net/"><img width="300" height="120" src="img/ripencc.jpg" alt="RIPE NCC"></a>
+    <a href="https://www.sidnfonds.nl/"><img width="300" height="120" src="img/sidnfonds.jpg" alt="SIDN fonds"></a>
+</div>

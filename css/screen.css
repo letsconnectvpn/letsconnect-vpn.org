@@ -39,6 +39,16 @@ nav ul li {
     display: inline-block;
 }
 
+main img, main video, main audio {
+    display: block;
+    margin: 0 auto;
+    max-width: 95%;
+}
+
+main a img {
+    margin: 0;
+}
+
 nav ul li a {
     color: #212529;
     text-decoration: none;
@@ -101,16 +111,6 @@ footer {
 
 footer a {
     color: #888;
-}
-
-main img, main video, main audio {
-    display: block;
-    margin: 0 auto;
-    max-width: 95%;
-}
-
-main a img {
-    margin: 0;
 }
 
 main a, aside a {
@@ -182,9 +182,9 @@ p.latest a {
     color: #1193f5;
     font-weight: bold;
 }
-
+ 
 /* The application logo grid */
-div.apps {
+div.apps, div.sponsors {
 	text-align: center;
     display: grid;
     grid-template-columns: 1fr;
@@ -196,6 +196,12 @@ div.apps a {
     margin: 1em auto;
     background-color: #eee;
     border: 1px solid #ccc;
+    padding: 1em;
+}
+
+div.sponsors a {
+    width: 300px;
+    margin: 1em auto;
     padding: 1em;
 }
 
@@ -213,7 +219,7 @@ div.apps span {
         display: block;
     }
     
-    div.apps {
+    div.apps, div.sponsors {
         grid-template-columns: 1fr 1fr;
     }
 }
