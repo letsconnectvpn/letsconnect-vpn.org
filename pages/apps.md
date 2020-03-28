@@ -6,6 +6,12 @@ Use the applications below to connect to your Let's Connect! server. See
 [app.letsconnect-vpn.org](https://app.letsconnect-vpn.org/) for a full list of 
 applications and release notes.
 
+<p class="warning">
+You need your own server or a server someone set up for you
+to use! Without server the app is useless! To install your own server, see the 
+<a href="install.html">Install</a> page.
+</p>
+
 To use Let's Connect!, download the app for your device below!
 
 <div class="apps">

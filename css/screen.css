@@ -170,6 +170,16 @@ small {
     font-size: 80%;
 }
 
+p.warning {
+    padding: 1em;
+    border: 1px solid darkorange;
+    color: darkorange;
+}
+
+p.warning a {
+    color: darkorange;
+}
+
 p.latest {
     margin-top: 1em;
     border: 1px solid #1193f5;
