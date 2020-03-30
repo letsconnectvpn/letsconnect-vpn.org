@@ -2,8 +2,9 @@
 title: Install
 ---
 
-Let's Connect! can be installed on anything from a Raspberry Pi, virtual 
-machines, to a group of bare-metal servers.
+Let's Connect! can be installed on anything from a 
+[Raspberry Pi](https://github.com/eduvpn/documentation/blob/v2/RASPBERRY_PI.md#vpn-server-on-your-raspberry-pi), 
+virtual machines, to a group of bare-metal servers.
 
 We officially support the following operating systems to deploy on:
 

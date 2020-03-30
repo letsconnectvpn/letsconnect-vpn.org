@@ -192,6 +192,19 @@ p.latest a {
     color: #1193f5;
     font-weight: bold;
 }
+
+p.eduvpn {
+    margin-top: 1em;
+    border: 1px solid #df7f0c;
+    padding: 1em;
+    text-align: center;
+    color: #df7f0c;
+}
+
+p.eduvpn a {
+    color: #df7f0c;
+    font-weight: bold;
+}
  
 /* The application logo grid */
 div.apps, div.sponsors {

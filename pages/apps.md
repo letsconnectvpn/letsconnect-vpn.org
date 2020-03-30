@@ -2,17 +2,13 @@
 title: Apps
 ---
 
-Use the applications below to connect to your Let's Connect! server. See 
-[app.letsconnect-vpn.org](https://app.letsconnect-vpn.org/) for a full list of 
-applications and release notes.
+To use Let's Connect!, download the app for your device below!
 
 <p class="warning">
 You need your own server or a server someone set up for you
 to use! Without server the app is useless! To install your own server, see the 
 <a href="install.html">Install</a> page.
 </p>
-
-To use Let's Connect!, download the app for your device below!
 
 <div class="apps">
 	<a target="_blank" href="https://app.letsconnect-vpn.org/windows/LetsConnectClient_latest.exe">
@@ -32,3 +28,7 @@ To use Let's Connect!, download the app for your device below!
 		<span>Download</span>
 	</a>
 </div>
+
+If you use a system not listed above, or you prefer a manual configuration, 
+e.g. using a third party application, look 
+[here](https://github.com/eduvpn/documentation/blob/v2/CLIENT_COMPAT.md).

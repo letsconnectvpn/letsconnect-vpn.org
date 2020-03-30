@@ -7,7 +7,7 @@ latest_blog: yes
 With the ongoing global COVID-19 crisis, many people need to start working from 
 home. Typically, the use of a VPN is required to be able to keep working. Let’s 
 Connect! provides an open source VPN solution allowing ISPs, hosters and 
-businesses to easily setup a secure VPN service.
+businesses to easily [setup](install.html) a secure VPN service.
 
 We are people from the Research and Educational community and under the 
 governance of the 
