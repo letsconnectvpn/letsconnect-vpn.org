@@ -33,4 +33,5 @@ on Let's Connect!
     <a href="https://nlnet.nl/"><img width="300" height="120" src="img/nlnet.jpg" alt="NLnet Foundation"></a>
     <a href="https://www.ripe.net/"><img width="300" height="120" src="img/ripencc.jpg" alt="RIPE NCC"></a>
     <a href="https://www.sidnfonds.nl/"><img width="300" height="120" src="img/sidnfonds.jpg" alt="SIDN fonds"></a>
+    <a href="https://www.ngi.eu/ngi-projects/ngi-trust/"><img width="300" height="120" src="img/ngi-trust.png" alt="NGI TRUST"></a>
 </div>
