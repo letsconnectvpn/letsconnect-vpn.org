@@ -3,7 +3,7 @@ title: Contact
 ---
 
 If you have questions, comments or want to work together on Let’s Connect! 
-contact us on [info@letsconnect-vpn.org](mailto:support@letsconnect-vpn.org).
+contact us on [support@letsconnect-vpn.org](mailto:support@letsconnect-vpn.org).
 
 <p class="warning">
 We offer support only on "best effort" basis. The address above is NOT 

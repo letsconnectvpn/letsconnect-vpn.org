@@ -1,6 +1,7 @@
 ---
 title: New Client Apps Available for macOS, Android and Linux
 published: 2020-08-27
+modified: 2021-03-05
 ---
 
 We have been working on GUI improvements for both the VPN server portal as well
@@ -22,7 +23,6 @@ For Debian and Ubuntu the instructions are:
 
     $ sudo apt install build-essential git
     $ git clone https://github.com/eduvpn/python-eduvpn-client.git
-    $ cd python-eduvpn-client/
-    $ git checkout 2.0.x
-    $ sudo make debdev
-    $ make lc
+    $ cd python-eduvpn-client
+    $ sudo make deb
+    $ make letsconnect-gui
