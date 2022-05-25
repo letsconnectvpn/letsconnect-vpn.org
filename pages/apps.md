@@ -31,4 +31,4 @@ to use! Without server the app is useless! To install your own server, see the
 
 If you use a system not listed above, or you prefer a manual configuration, 
 e.g. using a third party application, look 
-[here](https://github.com/eduvpn/documentation/blob/v2/CLIENT_COMPAT.md).
+[here](https://github.com/eduvpn/documentation/blob/v3/CLIENT_COMPAT.md).

@@ -13,7 +13,7 @@ their server operator directly!
 
 Visit us on [GitHub](https://github.com/eduvpn) to look at the
 code, report issues with the server or applications. You can also find the 
-[documentation](https://github.com/eduvpn/documentation/blob/v2/README.md#introduction) 
+[documentation](https://github.com/eduvpn/documentation/blob/v3/README.md#introduction) 
 there.
 
 ### Security
