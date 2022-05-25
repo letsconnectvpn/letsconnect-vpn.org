@@ -10,7 +10,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://git.tuxed.net/fkooman/php-tpl"
+            "url": "https://github.com/fkooman/php-tpl"
         }
     ],
     "require": {
